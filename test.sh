@@ -2,4 +2,6 @@
 
 # Моя группа в VK ДОБАВЛЯЙТЕСЬ)))  https://vk.com/sergiyakinshin
 
-#  https://vk.com/sergiy.akinshin
+# Личка  https://vk.com/sergiy.akinshin
+
+# В Апреле новый релиз!!!
