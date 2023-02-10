@@ -7,7 +7,7 @@
 5. `Посмотрел все изменения в данном файле с помощью комманд:git status, git diff, git diff --staged`
 6. `Сделал коммит git commit -m 'First commit`
 7. `Сделал git push origin main`
+8. `Добвил ссылку на коммит`
 
 [Ссылка на Коммит] https://github.com/akinya1974/GIT/commit/478e4c11bbaf1158f7f939a82e8bb9a1dbcebad2
 
-![Git status](https://github.com/akinya1974/GIT/main//home/master/GIT/jpg/Git diff.jpg) 
